@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-set -x
 switch_branch() {
 branch=`git branch --show-current`
 
