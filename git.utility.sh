@@ -13,3 +13,4 @@ else
   git pull
 fi
 }
+switch_branch()
