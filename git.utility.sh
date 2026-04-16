@@ -12,5 +12,5 @@ else
   git checkout develop
   git pull
 fi
-}
 switch_branch()
+}
